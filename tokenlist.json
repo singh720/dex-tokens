@@ -1,0 +1,91 @@
+{
+  "name": "Tyco List",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+
+    {
+      "chainId": 3630,
+      "address": "0x457e7a4E2D8feCBd46847Ea2C20d1421a32ACE2D",
+      "name": "WTYCO",
+      "symbol": "WTYCO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x689ADB8f7428A4914D2f6eB7377d45d2ea7038c6.png"
+    },
+
+
+    {
+      "name": "ETIHAD",
+      "address": "0x7FA4F977320a1387065927ba1f219E3Cd4FE84af",
+      "symbol": "EHD",
+      "decimals": 18,
+      "chainId": 3630,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x7FA4F977320a1387065927ba1f219E3Cd4FE84af.jpeg"
+    },
+
+
+    {
+      "name": "ETH",
+      "address": "0x994CDA7023C65976a1445d28b87D296969772cd8",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 3630,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
+    },
+    {
+      "name": "BNB",
+      "address": "0x62baB654d2672E33942C4d93282B7e019C0a027c",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 3630,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x0041DB9E06580f68041eb4F2cd3E1E1C79e83F47.png"
+    },
+
+    {
+      "name": "MATIC",
+      "address": "0x7B67a43CAF955057f5903459fc359a57094e6B8C",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 3630,
+     "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
+    },
+
+    {
+      "name": "FLT COIN",
+      "address": "0xE670C0A03f96B713207A31BA505aeFC9F5C325d2",
+      "symbol": "FLT",
+      "decimals": 18,
+      "chainId": 3630,
+       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xE670C0A03f96B713207A31BA505aeFC9F5C325d2.png"
+    },
+        {
+      "name": "USDT",
+      "address": "0x2F5B68726Ef305FC78f7e08d29672C0D52Ea32fC",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 3630,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/usdt.png"
+    },
+    {
+      "name": "NEGOBIT",
+      "address": "0x5e39a219B28bd5fA78304217Daeb3770320aD72b",
+      "symbol": "NBTC",
+      "decimals": 18,
+      "chainId": 3630,
+      "hidden" : false,
+   
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x5e39a219B28bd5fA78304217Daeb3770320aD72b.png"
+    }
+
+  ]
+}
