@@ -82,7 +82,7 @@
       "symbol": "NBTC",
       "decimals": 18,
       "chainId": 3630,
-      "hidden" : false,   
+      "hidden" : true,   
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x5e39a219B28bd5fA78304217Daeb3770320aD72b.png"
     }
 
