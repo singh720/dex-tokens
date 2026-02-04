@@ -75,15 +75,6 @@
       "decimals": 18,
       "chainId": 3630,
       "logoURI": "https://raw.githubusercontent.com/singh720/dex-tokens/refs/heads/main/assets/0x2F5B68726Ef305FC78f7e08d29672C0D52Ea32fC.png"
-    },
-    {
-      "name": "NEGOBIT",
-      "address": "0x5e39a219B28bd5fA78304217Daeb3770320aD72b",
-      "symbol": "NBTC",
-      "decimals": 18,
-      "chainId": 3630,
-      "hidden" : false,   
-      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x5e39a219B28bd5fA78304217Daeb3770320aD72b.png"
     }
   ]
 }
