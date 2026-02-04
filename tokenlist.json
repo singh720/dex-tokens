@@ -68,7 +68,7 @@
       "chainId": 3630,
        "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xE670C0A03f96B713207A31BA505aeFC9F5C325d2.png"
     },
-        {
+      {
       "name": "USDT",
       "address": "0x2F5B68726Ef305FC78f7e08d29672C0D52Ea32fC",
       "symbol": "USDT",
@@ -82,10 +82,8 @@
       "symbol": "NBTC",
       "decimals": 18,
       "chainId": 3630,
-      "hidden" : false,
-   
+      "hidden" : false,   
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x5e39a219B28bd5fA78304217Daeb3770320aD72b.png"
     }
-
   ]
 }
