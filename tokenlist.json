@@ -66,6 +66,7 @@
       "symbol": "FLT",
       "decimals": 18,
       "chainId": 3630,
+      "hidden": true,
        "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xE670C0A03f96B713207A31BA505aeFC9F5C325d2.png"
     },
       {
