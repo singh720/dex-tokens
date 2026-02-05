@@ -89,7 +89,7 @@
     {
     "name": "DEEPSEEK",
     "address": "0xFdaCdEE698b2619f50315a8717126cF53ad90755",
-    "symbol": "DEEPSEEK":,
+    "symbol": "DEEPSEEK",
     "decimals": 18,
     "chainId": 3630,
     "hidden": false,
