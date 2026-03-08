@@ -94,6 +94,15 @@
     "chainId": 3630,
     "hidden": false,
     "logoURI": "https://raw.githubusercontent.com/singh720/dex-tokens/refs/heads/main/assets/0xFdaCdEE698b2619f50315a8717126cF53ad90755.png"
+    },
+    {
+      "name": "ROUNDPAY NFT",
+      "address": "0x386238e8368a00985E313F2B871083DB46C5fe18",
+      "symbol": "RDP TOKEN",
+      "decimals": 18,
+      "chainId": 3630,
+      "hidden": false,
+      "logoURI": "https://raw.githubusercontent.com/singh720/dex-tokens/refs/heads/main/assets/0x386238e8368a00985E313F2B871083DB46C5fe18.png"
     }
     
     
